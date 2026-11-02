@@ -151,7 +151,7 @@ https://train_batch2.jpg/
 The paper is currently in the submission stage. Currently available for temporary reference:
 @article{liu2026pleyolo,
   title={PLE-YOLO: A Multi-Scale Attention-Enhanced Framework for Solar Photovoltaic Panel Defect Detection},
-  author={Liu, Chenshuo and ...},
+  author={Liu, Chenshuo and Xu, Laixiang and Xu, Jinying and Zhao, hao},
   journal={（待录用后补充）},
   year={2026},
   note={Manuscript submitted for publication}
